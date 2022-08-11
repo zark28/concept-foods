@@ -8,25 +8,25 @@ class Footer extends HTMLElement {
 			<div class="row row-pb-md">
 				<div class="col-md-4 fh5co-widget">
 					<h4>Concept Foods</h4>
-					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
+					<p>The Best Coffee & Restaurant in the East</p>
 				</div>
 				<div class="col-md-2 col-md-push-1 fh5co-widget">
 					<h4>Links</h4>
 					<ul class="fh5co-footer-links">
-						<li><a href="#">Home</a></li>
-						<li><a href="#">About</a></li>
-						<li><a href="#">Menu</a></li>
-						<li><a href="#">Gallery</a></li>
+						<li><a href="./index.html">Home</a></li>
+						<li><a href="./about.html">About</a></li>
+						<li><a href="./menu/html">Menu</a></li>
+						<li><a href="./gallery.HTMLElement">Gallery</a></li>
 					</ul>
 				</div>
 
 				<div class="col-md-2 col-md-push-1 fh5co-widget">
-					<h4>Categories</h4>
+					<h4>Working Hours</h4>
 					<ul class="fh5co-footer-links">
-						<li><a href="#">Landing Page</a></li>
+						<li>Weekdays</li>
 						<li><a href="#">Real Estate</a></li>
-						<li><a href="#">Personal</a></li>
-						<li><a href="#">Business</a></li>
+						<li><a href="#"></a></li>
+						<li><a href="#">Weekends</a></li>
 						<li><a href="#">e-Commerce</a></li>
 					</ul>
 				</div>
